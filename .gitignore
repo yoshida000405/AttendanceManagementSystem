@@ -1,0 +1,15 @@
+
+build
+.settings/
+.project
+.classpath
+
+src/controller/PassAutherController.java
+src/model/dao/ConnectionManager.java
+src/controller/object_collection_attendance_template.xls
+src/controller/object_collection_demand_template.xls
+src/controller/object_collection_pto_template.xls
+src/controller/object_collection_template.xls
+src/controller/credentials.json
+
+WebContent/resources/confidential
